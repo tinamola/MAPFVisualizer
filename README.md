@@ -37,3 +37,6 @@ This is part of a university research project in developing an explanation gener
 | Is there a new path for agent 1 with time cost 7?  |   1   |              |              |       |  7   |
 | New path if agent 0 avoids location (3,4)?         |   0   |   3,4       | -1 (forbid)  |       |      |
 | New path if agent 1 passes through (3,4) and (3,5)?|   1   |   3,4       |    3,5       |       |      |
+
+### Run Screenshots
+![Warehouse Map](Images/GUI_Screenshot.png)
