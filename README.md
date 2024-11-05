@@ -18,8 +18,8 @@ This is part of a university research project in developing an explanation gener
 - Install the [pybind11](https://pybind11.readthedocs.io/en/stable/installing.html) tool.
 - Generate the mapf solution following the instruction from this repository [the lazycbs codebase](https://github.com/AppleGamer22/FIT2082). 
 - Save the output to [solution_name.txt] to be passed to the front-end GUI.
-- Run in linux： python3 run.py [solution_name.txt] [map_name.ecbs] [agent number]
-- Run in Python:  python run.py [solution_name.txt] [map_name.ecbs] [agent number] or double click run.py
+- Run in Linux： python3 run.py [solution_name.txt] [map_name.ecbs] [agent number]
+- Run in Windows/Mac:  python run.py [solution_name.txt] [map_name.ecbs] [agent number] or double click run.py
 
 ### Functions
   - Play/pause the agents
